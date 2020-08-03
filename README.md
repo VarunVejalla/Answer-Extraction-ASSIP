@@ -1,2 +1,2 @@
 # Answer-Extraction-ASSIP-
-![ASSIP Results](ASSIP Results.png)
+![ASSIP Results](ASSIP%20Results.png)
