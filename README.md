@@ -1,36 +1,26 @@
 # Answer-Extraction-ASSIP-
 
 ## This is our data. Our data is in the data folder.
-
 Regular Training Data is finished
 
 
 These files are huge, no wonder it takes forever to do anything lmao
 
-
 Train_data_1 has first 50 training docs (1-50)
-
 
 Train_data_2 has second 50 docs (50-100)
 
-
 Train_data_3 has third 50 docs (100-150)
-
 
 Train_data_4 has fourth 50 docs (150-200)
 
-
 Train_data_5 has fifth 50 docs (200-250)
-
 
 Train_data_6 has sixth 50 docs (250-300)
 
-
 Train_data_7 has seventh 50 docs (300-350)
 
-
 Train_data_8 has eighth 50 docs (350-400)
-
 
 Train_data_9 has ninth 42 docs (400-442)
 
