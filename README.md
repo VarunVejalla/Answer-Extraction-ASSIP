@@ -3,7 +3,6 @@
 ## This is our data. Our data is in the data folder.
 Regular Training Data is finished
 
-
 These files are huge, no wonder it takes forever to do anything lmao
 
 Train_data_1 has first 50 training docs (1-50)
